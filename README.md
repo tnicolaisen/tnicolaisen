@@ -35,6 +35,6 @@ This experience helped me develop key skills like **responsibility**, **organiza
 
 ## 📫 Let's Connect
 - 📧 Email: tiagonicolaisen@outlook.com
-- 💼 LinkedIn: [Tiago Marcelo Nicolaisen](linkedin.com/in/tiago-marcelo-nicolaisen-b23a4518b)
+- 💼 LinkedIn: [Tiago Marcelo Nicolaisen](https://www.linkedin.com/in/tiago-marcelo-nicolaisen-b23a4518b/)
 
 I'm open to collaboration and always up for learning new things. Feel free to reach out!
