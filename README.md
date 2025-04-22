@@ -6,8 +6,7 @@
 
 - 💻 Programming: **Python (intermediate)**, **Java (learning)**
 - 🧠 Still learning: Java basics, algorithms, data structures
-- 🔧 IDEs: IntelliJ IDEA (with educational license)
-- 🐧 Red Hat Academy Labs (RHEL VM user)
+- 🔧 IDEs: IntelliJ IDEA (with educational license) & VisualStudio
 
 ## 📂 Projects & Learning Journey
 
